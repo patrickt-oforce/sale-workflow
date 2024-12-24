@@ -27,7 +27,7 @@ addon | version | maintainers | summary
 [pricelist_cache_rest](pricelist_cache_rest/) | 14.0.1.0.0 |  | Provides an endpoint to get product prices for a given customer
 [product_form_sale_link](product_form_sale_link/) | 14.0.1.1.1 |  | Adds a button on product forms to access Sale Lines
 [product_supplierinfo_for_customer_elaboration](product_supplierinfo_for_customer_elaboration/) | 14.0.1.0.0 |  | Allows to define default elaborations and elaboration notes on product customerinfos
-[product_supplierinfo_for_customer_sale](product_supplierinfo_for_customer_sale/) | 14.0.1.2.0 |  | Loads in every sale order line the customer code defined in the product
+[product_supplierinfo_for_customer_sale](product_supplierinfo_for_customer_sale/) | 14.0.1.3.0 |  | Loads in every sale order line the customer code defined in the product
 [product_supplierinfo_for_customer_sale_blanket_order](product_supplierinfo_for_customer_sale_blanket_order/) | 14.0.1.0.0 | [![aleuffre](https://github.com/aleuffre.png?size=30px)](https://github.com/aleuffre) [![renda-dev](https://github.com/renda-dev.png?size=30px)](https://github.com/renda-dev) [![PicchiSeba](https://github.com/PicchiSeba.png?size=30px)](https://github.com/PicchiSeba) | Product Supplierinfo for Customer Sale Blanket Order
 [product_supplierinfo_for_customer_sale_quick](product_supplierinfo_for_customer_sale_quick/) | 14.0.1.0.0 | [![toita86](https://github.com/toita86.png?size=30px)](https://github.com/toita86) | Adapts the new fields added by Product Supplierinfo for Customer Salewith the Sale Quick module.
 [sale_advance_payment](sale_advance_payment/) | 14.0.1.1.4 |  | Allow to add advance payments on sales and then use them on invoices
